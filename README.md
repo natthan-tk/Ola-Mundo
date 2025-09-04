@@ -1,3 +1,4 @@
-# Meu Projeto
+# Olá, Mundo!
+Primeiro repositório do curso Git e GitHub!
 
-Esse é o meu primeiro repositório no GitHub!
+Repositório criado durante uma aula ao vivo!
